@@ -12,10 +12,10 @@ I am currently working on React.js and Tailwind.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SupraIZ&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupraIZ&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
